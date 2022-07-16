@@ -2,3 +2,4 @@
 My first repository
 
 2022-07-13 Get started to learn to build a blog with Hugo, and by the way, get familiar with GitHub.
+2022-07-16 Learn how to use Git.
